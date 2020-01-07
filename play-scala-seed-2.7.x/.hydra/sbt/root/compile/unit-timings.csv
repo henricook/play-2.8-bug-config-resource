@@ -1,0 +1,8 @@
+Worker ID, File, Total Time (ms), lateFile?, totalSpans, parser nodes, typer nodes, LoC, LoC/s
+0, target/scala-2.13/routes/main/router/Routes.scala, 1490, false, 61, 403, 628, 75, 50
+3, target/scala-2.13/routes/main/router/RoutesPrefix.scala, 866, false, 37, 31, 52, 10, 12
+1, target/scala-2.13/twirl/main/views/html/index.template.scala, 762, false, 45, 169, 162, 30, 39
+2, target/scala-2.13/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala, 738, false, 40, 118, 125, 30, 41
+1, target/scala-2.13/routes/main/controllers/ReverseRoutes.scala, 465, false, 42, 129, 154, 21, 45
+2, target/scala-2.13/twirl/main/views/html/main.template.scala, 407, false, 51, 245, 266, 41, 101
+0, app/controllers/HomeController.scala, 365, false, 35, 52, 71, 10, 27

@@ -1,0 +1,30 @@
+2020-01-07 12:26:48.706 INFO  c.t.h.c.c.ParsedLogicalPackage$OutlineParseCompiler - Outline parse 8 files in 3 roots took 91 ms.
+2020-01-07 12:26:48.711 INFO  c.t.hydra.Hydra - Loaded pickle store with 0 entries.
+2020-01-07 12:26:48.712 INFO  c.t.hydra.Hydra - Hydra Scala version: 2.13.1-hydra40
+2020-01-07 12:26:48.713 INFO  c.t.hydra.Hydra - Hydra version:       2.2.0
+2020-01-07 12:26:48.713 INFO  c.t.hydra.Hydra - Compiling project:   root/compile
+2020-01-07 12:26:48.718 INFO  c.t.h.FullBuildDetector$ - Recursive - Full build detection took 3 ms.
+2020-01-07 12:26:48.718 INFO  c.t.hydra.Hydra - Clean build: true
+2020-01-07 12:26:49.773 INFO  c.t.h.l.ActivatedLicenseText - ActivatedLicenseText.validate took 1038 ms.
+2020-01-07 12:26:49.774 INFO  c.t.h.l.HydraLicenseChecker - Days until license expiration: 206. Maximum cores: 8
+2020-01-07 12:26:49.776 INFO  c.t.h.SourcePartitioner$ - No automatically balanced partition file /home/henri/repos/play-framework-config-resource/play-scala-seed-2.7.x/.hydra/sbt/root/compile/partition.hydra exist yet. Using plain partition strategy.
+2020-01-07 12:26:49.815 INFO  c.t.hydra.Hydra - [worker.0]: Starting worker with 2 files.
+2020-01-07 12:26:49.815 INFO  c.t.hydra.Hydra - [worker.1]: Starting worker with 2 files.
+2020-01-07 12:26:49.816 INFO  c.t.hydra.Hydra - [worker.2]: Starting worker with 2 files.
+2020-01-07 12:26:49.816 INFO  c.t.hydra.Hydra - [worker.3]: Starting worker with 1 files.
+2020-01-07 12:26:51.330 INFO  worker.3 - Worker used 0 cached entries.
+2020-01-07 12:26:51.330 INFO  c.t.h.WorkerThread - [worker.3]: 1508 ms 	1 sources.
+2020-01-07 12:26:51.352 INFO  worker.1 - Worker used 0 cached entries.
+2020-01-07 12:26:51.353 INFO  c.t.h.WorkerThread - [worker.1]: 1530 ms 	2 sources.
+2020-01-07 12:26:51.370 INFO  worker.2 - Worker used 0 cached entries.
+2020-01-07 12:26:51.371 INFO  c.t.h.WorkerThread - [worker.2]: 1549 ms 	2 sources.
+2020-01-07 12:26:51.971 INFO  worker.0 - Worker used 0 cached entries.
+2020-01-07 12:26:51.972 INFO  c.t.h.WorkerThread - [worker.0]: 2150 ms 	2 sources.
+2020-01-07 12:26:51.977 INFO  c.t.h.m.GarbageCollection$ - Garbage collection duration: 19 milliseconds
+2020-01-07 12:26:51.979 INFO  c.t.hydra.Hydra - Hydra compiling: 2163 ms
+2020-01-07 12:26:52.003 INFO  worker.0 - Total time in late files: 68 ms in 2 late files
+2020-01-07 12:26:52.003 INFO  worker.1 - Total time in late files: 65 ms in 1 late files
+2020-01-07 12:26:52.003 INFO  worker.2 - Total time in late files: 37 ms in 2 late files
+2020-01-07 12:26:52.003 INFO  worker.3 - Total time in late files: 0 ms in 0 late files
+2020-01-07 12:26:52.005 INFO  c.t.hydra.Hydra - Compile time threshold for reporting unbalanced workers is 3508 ms.
+2020-01-07 12:26:52.025 INFO  c.t.h.m.MetricsSerializer - Compilation metrics successfully stored in /home/henri/.triplequote/metrics/root-1578400008712
