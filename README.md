@@ -1,6 +1,6 @@
 # Bug demonstration
 
-This repository is intended to demonstrate:
+This repository is intended to demonstrate: https://github.com/playframework/playframework/issues/9972
 
 I believe this issue has been introduced in Play 2.8.x and is a regression from Play 2.7.x - more info in the issue
 
